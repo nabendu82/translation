@@ -9,6 +9,9 @@
     font-weight: bold;
 }
 
+span:nth-child(2), span:nth-child(3) {
+  cursor: pointer
+}
 
 .ui__form {
     display: grid;
